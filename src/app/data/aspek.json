@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Sistem Religi",
+        "logo": "/images/sema.png"
+    },
+    {
+        "id": 2,
+        "name": "Bahasa",
+        "logo": "/images/himaforka.png"
+    },
+    {
+        "id": 3,
+        "name": "Mata Pencaharian",
+        "logo": "/images/hmti.png"
+    },
+    {
+        "id": 4,
+        "name": "Peralatan Hidup",
+        "logo": "/images/himsi.png"
+    },
+    {
+        "id": 4,
+        "name": "Kesenian",
+        "logo": "/images/himsi.png"
+    }
+]
