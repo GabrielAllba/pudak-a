@@ -3,6 +3,7 @@
 import aspek_kebudayaan from '../data/aspek_kebudayaan.json';
 import aspek from '../data/aspek.json';
 import { useState, useEffect } from 'react';
+import Image from 'next/image';
 
 const AspekBudaya = () => {
     const [aspect, setAspect] = useState<string>('Sistem Religi');
@@ -82,9 +83,12 @@ const AspekBudaya = () => {
                                         <div className="flex flex-wrap gap-2 justify-center items-center">
                                             {k.foto.map((x: any) => {
                                                 return (
-                                                    <img
+                                                    <Image
+                                                        key={'num-' + k}
                                                         className="aspect-square h-48 w-48 rounded-sm bg-primary bg-center p-2"
                                                         src={x}
+                                                        height={100}
+                                                        width={100}
                                                         alt={x}
                                                     />
                                                 );

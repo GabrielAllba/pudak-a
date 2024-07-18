@@ -1,5 +1,6 @@
 'use client';
 
+import Image from 'next/image';
 import { AiOutlineYoutube, AiOutlineInstagram, AiOutlineWhatsApp } from 'react-icons/ai';
 
 const Footer = () => {
@@ -8,7 +9,7 @@ const Footer = () => {
             <footer className="footer bg-[#3c665c] p-10 text-base-content">
                 <div>
                     <button className="btn-ghost btn-lg btn h-16 w-16 p-2 lg:h-20 lg:w-20">
-                        <img src="/images/logo.jpg"></img>
+                        <Image alt="logo" height={100} width={100} src="/images/logo.jpg"></Image>
                     </button>
                     <p className="font-bold opacity-100">
                         Pudak A

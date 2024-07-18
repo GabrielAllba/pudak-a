@@ -1,10 +1,13 @@
 'use client';
+
+import Image from 'next/image';
+
 const NavBar = () => {
     return (
         <>
             <div className="navbar relative z-20 flex items-center justify-between px-2 lg:px-32 py-4">
                 <button className="btn-ghost btn-lg btn h-16 w-16 p-2 lg:h-20 lg:w-20">
-                    <img src="/images/logo.jpg"></img>
+                    <Image alt="logo" height={100} width={100} src="/images/logo.jpg"></Image>
                 </button>
                 <ul className="menu menu-horizontal hidden gap-12 lg:flex">
                     <li className="text-white">
