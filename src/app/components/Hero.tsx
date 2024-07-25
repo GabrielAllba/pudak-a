@@ -4,7 +4,7 @@ const Hero = () => {
     return (
         <>
             <div className="min-h-screen bg-[#477167]">
-                <div className="hero absolute inset-0 z-10 min-h-screen w-full bg-[url('/images/hero.jpg')]">
+                <div className="min-h-screen hero absolute inset-0 z-10 w-full bg-[url('/images/hero.jpg')]">
                     <div className="hero-content text-center z-50">
                         <div className="flex flex-col items-center justify-center">
                             <h1 className="text-4xl lg:text-8xl font-bold text-white">PUDAK A</h1>
@@ -19,7 +19,7 @@ const Hero = () => {
                             </button>
                         </div>
                     </div>
-                    <div className="absolute inset min-h-screen w-full bg-gradient-to-b from-[#477167]/40 to-[#477167]/90"></div>
+                    <div className="absolute inset min-h-screen w-full bg-gradient-to-b from-[#477167]/40 to-[#477167]/100"></div>
                 </div>
             </div>
         </>

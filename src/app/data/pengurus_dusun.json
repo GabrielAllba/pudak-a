@@ -2,25 +2,25 @@
     {
         "id": 1,
         "title": "Ketua RW",
-        "name": "Joel Christian Ngongoloy",
+        "name": "Bapak ",
         "foto": "/images/blank_profile.png"
     },
     {
         "id": 2,
         "title": "Ketua RT 01",
-        "name": "Joel Christian Ngongoloy",
+        "name": "Bapak Tukiman",
         "foto": "/images/blank_profile.png"
     },
     {
         "id": 3,
         "title": "Ketua RT 02",
-        "name": "Ananda Charista Theo",
+        "name": "Bapak Saimin",
         "foto": "/images/blank_profile.png"
     },
     {
         "id": 4,
         "title": "Ketua RT 03",
-        "name": "Ananda Charista Theo",
+        "name": "Bapak",
         "foto": "/images/blank_profile.png"
     }
 ]

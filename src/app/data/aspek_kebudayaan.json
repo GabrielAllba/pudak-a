@@ -6,8 +6,14 @@
             {
                 "id": 1,
                 "name": "Tirakatan",
-                "foto": ["/images/SEMA_1.png", "/images/SEMA_1.png", "/images/SEMA_1.png"],
-                "deskripsi": "27 Oktober 2024"
+                "foto": ["/images/tirakatan_1.jpg", "/images/tirakatan_2.jpg"],
+                "deskripsi": "Tirakatan adalah sebuah tradisi dalam budaya Jawa yang biasanya dilakukan sebagai bentuk peringatan, refleksi, atau syukuran atas suatu peristiwa penting. Kegiatan ini sering dilakukan pada malam hari dengan tujuan untuk memohon keselamatan, berkah, dan kesejahteraan dari Tuhan Yang Maha Esa. Tirakatan biasanya diadakan menjelang atau pada hari-hari penting, seperti malam kemerdekaan, malam Satu Suro (tahun baru Jawa), atau peringatan hari-hari besar keagamaan dan nasional."
+            },
+            {
+                "id": 2,
+                "name": "Syukuran",
+                "foto": ["/images/syukuran_1.jpg", "/images/syukuran_2.jpg"],
+                "deskripsi": "Syukuran adalah tradisi yang dilakukan oleh para pedagang sebagai bentuk ungkapan rasa syukur atas keberhasilan dan rezeki yang telah mereka terima. Tradisi ini biasanya melibatkan kegiatan-kegiatan seperti doa bersama, selamatan, dan pembagian makanan kepada masyarakat sekitar. Tujuannya adalah untuk memohon kelancaran, keberkahan, dan keselamatan dalam usaha mereka di masa mendatang."
             }
         ]
     },
@@ -19,13 +25,13 @@
                 "id": 1,
                 "name": "Jatilan",
                 "foto": ["/images/jatilan.jpg"],
-                "deskripsi": "27 Oktober 2024"
+                "deskripsi": "Jatilan, juga dikenal sebagai Kuda Lumping, adalah tarian tradisional Jawa yang menggambarkan prajurit berkuda. Dalam tarian ini, para penari menggunakan anyaman bambu berbentuk kuda yang dihias warna-warni sebagai properti utama. Tarian ini biasanya diiringi oleh musik gamelan yang ritmis dan energik."
             },
             {
                 "id": 2,
                 "name": "Karawitan",
                 "foto": ["/images/karawitan1.jpg", "/images/karawitan1.jpg", "/images/karawitan3.jpg"],
-                "deskripsi": "10 Oktober 2024"
+                "deskripsi": "Karawitan adalah seni musik tradisional Jawa yang melibatkan penggunaan gamelan sebagai instrumen utamanya. Gamelan adalah ansambel musik yang terdiri dari berbagai alat musik, seperti gong, kenong, bonang, saron, gender, dan kendang, yang dimainkan secara harmonis untuk menciptakan melodi yang khas."
             }
         ]
     },
@@ -35,14 +41,20 @@
         "items": [
             {
                 "id": 1,
-                "name": "Petani",
+                "name": "Pertanian",
 
                 "foto": ["/images/petani.jpg"],
                 "deskripsi": "27 Oktober 2024"
             },
             {
                 "id": 2,
-                "name": "Ternak",
+                "name": "Peternakan",
+                "foto": ["/images/ternak.jpg", "/images/ternak.jpg", "/images/ternak.jpg"],
+                "deskripsi": "10 Oktober 2024"
+            },
+            {
+                "id": 3,
+                "name": "Perkebunan",
                 "foto": ["/images/ternak.jpg", "/images/ternak.jpg", "/images/ternak.jpg"],
                 "deskripsi": "10 Oktober 2024"
             }
