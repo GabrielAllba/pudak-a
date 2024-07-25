@@ -61,25 +61,35 @@ const NavBar = () => {
                 <label className="modal-box relative" htmlFor="">
                     <div className="flex-none">
                         <ul className="menu menu-vertical">
-                            <li>
-                                <label htmlFor="modal-peraturan">Peraturan</label>
-                            </li>
-                            <li>
+                            <li className="text-white">
                                 <a
                                     onClick={() =>
-                                        document.getElementById('kandidat')?.scrollIntoView({ behavior: 'smooth' })
+                                        document.getElementById('peta')?.scrollIntoView({ behavior: 'smooth' })
                                     }
                                 >
-                                    Kandidat
+                                    Peta
                                 </a>
                             </li>
-                            <li>
+                            <li className="text-white">
                                 <a
                                     onClick={() =>
-                                        document.getElementById('timeline')?.scrollIntoView({ behavior: 'smooth' })
+                                        document
+                                            .getElementById('aspek_kebudayaan')
+                                            ?.scrollIntoView({ behavior: 'smooth' })
                                     }
                                 >
-                                    Timeline
+                                    Aspek Kebudayaan
+                                </a>
+                            </li>
+                            <li className="text-white">
+                                <a
+                                    onClick={() =>
+                                        document
+                                            .getElementById('pengurus_dusun')
+                                            ?.scrollIntoView({ behavior: 'smooth' })
+                                    }
+                                >
+                                    Pengurus Dusun
                                 </a>
                             </li>
                         </ul>

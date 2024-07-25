@@ -7,7 +7,7 @@ const PengurusDusun = () => {
                 id="pengurus_dusun"
                 className="flex flex-col items-center justify-center gap-8 bg-[#477167] p-4 pb-24 pt-24"
             >
-                <h1 className="text-5xl font-bold tracking-[0.1em]">Pengurus Dusun</h1>
+                <h1 className="text-5xl font-bold text-center tracking-[0.1em]">Pengurus Dusun</h1>
                 <div className="align-center flex flex-wrap justify-center gap-4">
                     {pengurus_dusun.map((item) => {
                         return (

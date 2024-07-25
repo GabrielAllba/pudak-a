@@ -40,22 +40,15 @@
         "name": "Mata Pencaharian",
         "items": [
             {
-                "id": 1,
-                "name": "Pertanian",
-
-                "foto": ["/images/petani.jpg"],
-                "deskripsi": "27 Oktober 2024"
-            },
-            {
                 "id": 2,
                 "name": "Peternakan",
-                "foto": ["/images/ternak.jpg", "/images/ternak.jpg", "/images/ternak.jpg"],
+                "foto": ["/images/peternakan1.jpg", "/images/peternakan2.jpg"],
                 "deskripsi": "10 Oktober 2024"
             },
             {
                 "id": 3,
                 "name": "Perkebunan",
-                "foto": ["/images/ternak.jpg", "/images/ternak.jpg", "/images/ternak.jpg"],
+                "foto": ["/images/perkebunan1.jpg"],
                 "deskripsi": "10 Oktober 2024"
             }
         ]
