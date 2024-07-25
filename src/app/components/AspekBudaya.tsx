@@ -78,17 +78,17 @@ const AspekBudaya = () => {
                                     >
                                         <div className="flex flex-col items-center gap-2 text-center">
                                             <h2 className="text-center text-4xl font-bold">{k.name}</h2>
-                                            <h2 className="pb-4text-center">{k.tanggal}</h2>
+                                            <h2 className="pb-4text-center">{k.deskripsi}</h2>
                                         </div>
                                         <div className="flex flex-wrap gap-2 justify-center items-center">
                                             {k.foto.map((x: any) => {
                                                 return (
                                                     <Image
                                                         key={'num-' + k}
-                                                        className="aspect-square h-48 w-48 rounded-sm bg-primary bg-center p-2"
+                                                        className="aspect-square h-48 w-48 rounded-sm bg-primary bg-center p-2 object-cover"
                                                         src={x}
-                                                        height={100}
-                                                        width={100}
+                                                        height={1000}
+                                                        width={1000}
                                                         alt={x}
                                                     />
                                                 );

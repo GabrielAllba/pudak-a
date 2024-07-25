@@ -13,9 +13,7 @@ const Hero = () => {
                             </p>
                             <button
                                 className="btn-primary btn"
-                                onClick={() =>
-                                    document.getElementById('teaser')?.scrollIntoView({ behavior: 'smooth' })
-                                }
+                                onClick={() => document.getElementById('peta')?.scrollIntoView({ behavior: 'smooth' })}
                             >
                                 Lebih lanjut
                             </button>

@@ -6,60 +6,26 @@
             {
                 "id": 1,
                 "name": "Tirakatan",
-                "visi": [
-                    "Menciptakan SEMA FTI UAJY sebagai wadah pengembangan karakter dan solidaritas antar mahasiswa FTI UAJY berlandaskan Pancasila dan Empat Pilar Keatmajayaan."
-                ],
-                "misi": [
-                    "Menjadikan SEMA FTI UAJY sebagai wadah penyaluran aspirasi mahasiswa FTI UAJY",
-                    "Meningkatkan hubungan yang positif antar mahasiswa FTI dengan kegiatan-kegiatan yang komunikatif dan inspiratif sehingga terciptanya solidaritas dan rasa empati tetrhadap sesama.",
-                    "Meningkatkan keterlibatan mahasiswa FTI dengan program kerja yang dibuat sehingga berkembangnya minat dan bakat serta rasa tanggungjawab."
-                ],
-                "foto": [
-                    "/images/SEMA_1.png",
-                    "/images/SEMA_1.png",
-                    "/images/SEMA_1.png",
-                    "/images/SEMA_1.png",
-                    "/images/SEMA_1.png",
-                    "/images/SEMA_1.png"
-                ],
-                "video": "https://www.youtube.com/embed/bwM66NpfikM",
-                "tanggal": "27 Oktober 2024"
-            },
-            {
-                "id": 2,
-                "name": "Tirakatan",
-                "visi": [
-                    "Menciptakan SEMA FTI UAJY sebagai wadah pengembangan karakter dan solidaritas antar mahasiswa FTI UAJY berlandaskan Pancasila dan Empat Pilar Keatmajayaan."
-                ],
-                "misi": [
-                    "Menjadikan SEMA FTI UAJY sebagai wadah penyaluran aspirasi mahasiswa FTI UAJY",
-                    "Meningkatkan hubungan yang positif antar mahasiswa FTI dengan kegiatan-kegiatan yang komunikatif dan inspiratif sehingga terciptanya solidaritas dan rasa empati tetrhadap sesama.",
-                    "Meningkatkan keterlibatan mahasiswa FTI dengan program kerja yang dibuat sehingga berkembangnya minat dan bakat serta rasa tanggungjawab."
-                ],
                 "foto": ["/images/SEMA_1.png", "/images/SEMA_1.png", "/images/SEMA_1.png"],
-                "video": "https://www.youtube.com/embed/bwM66NpfikM",
-                "tanggal": "10 Oktober 2024"
+                "deskripsi": "27 Oktober 2024"
             }
         ]
     },
     {
         "id": 2,
-        "name": "Bahasa",
+        "name": "Kesenian",
         "items": [
             {
                 "id": 1,
-                "name": "Aaron ",
-                "visi": [
-                    "Menciptakan SEMA FTI UAJY sebagai wadah pengembangan karakter dan solidaritas antar mahasiswa FTI UAJY berlandaskan Pancasila dan Empat Pilar Keatmajayaan."
-                ],
-                "misi": [
-                    "Menjadikan SEMA FTI UAJY sebagai wadah penyaluran aspirasi mahasiswa FTI UAJY",
-                    "Meningkatkan hubungan yang positif antar mahasiswa FTI dengan kegiatan-kegiatan yang komunikatif dan inspiratif sehingga terciptanya solidaritas dan rasa empati tetrhadap sesama.",
-                    "Meningkatkan keterlibatan mahasiswa FTI dengan program kerja yang dibuat sehingga berkembangnya minat dan bakat serta rasa tanggungjawab."
-                ],
-                "foto": ["/images/SEMA_1.png", "/images/SEMA_1.png", "/images/SEMA_1.png"],
-                "video": "https://www.youtube.com/embed/bwM66NpfikM",
-                "tanggal": "11 Oktober 2024"
+                "name": "Jatilan",
+                "foto": ["/images/jatilan.jpg"],
+                "deskripsi": "27 Oktober 2024"
+            },
+            {
+                "id": 2,
+                "name": "Karawitan",
+                "foto": ["/images/karawitan1.jpg", "/images/karawitan1.jpg", "/images/karawitan3.jpg"],
+                "deskripsi": "10 Oktober 2024"
             }
         ]
     },
@@ -69,18 +35,16 @@
         "items": [
             {
                 "id": 1,
-                "name": "Aaron ",
-                "visi": [
-                    "Menciptakan SEMA FTI UAJY sebagai wadah pengembangan karakter dan solidaritas antar mahasiswa FTI UAJY berlandaskan Pancasila dan Empat Pilar Keatmajayaan."
-                ],
-                "misi": [
-                    "Menjadikan SEMA FTI UAJY sebagai wadah penyaluran aspirasi mahasiswa FTI UAJY",
-                    "Meningkatkan hubungan yang positif antar mahasiswa FTI dengan kegiatan-kegiatan yang komunikatif dan inspiratif sehingga terciptanya solidaritas dan rasa empati tetrhadap sesama.",
-                    "Meningkatkan keterlibatan mahasiswa FTI dengan program kerja yang dibuat sehingga berkembangnya minat dan bakat serta rasa tanggungjawab."
-                ],
-                "foto": ["/images/SEMA_1.png"],
-                "video": "https://www.youtube.com/embed/bwM66NpfikM",
-                "tanggal": "11 Oktober 2024"
+                "name": "Petani",
+
+                "foto": ["/images/petani.jpg"],
+                "deskripsi": "27 Oktober 2024"
+            },
+            {
+                "id": 2,
+                "name": "Ternak",
+                "foto": ["/images/ternak.jpg", "/images/ternak.jpg", "/images/ternak.jpg"],
+                "deskripsi": "10 Oktober 2024"
             }
         ]
     }

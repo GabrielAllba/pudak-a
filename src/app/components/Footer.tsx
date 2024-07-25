@@ -22,11 +22,12 @@ const Footer = () => {
 
                     <div className="grid grid-flow-col gap-4">
                         <a
-                            href="https://instagram.com/pemilrafti_uajy?igshid=YmMyMTA2M2Y="
+                            href="https://www.instagram.com/pudaka40_kkn85?igsh=dWtob2p2eWY2OGFq"
                             target="_blank"
-                            className="text-lg"
+                            className="flex items-center link-hover link"
                         >
                             <AiOutlineInstagram></AiOutlineInstagram>
+                            <span className="pr-2"></span>KKN 85 Kelompok 40 UAJY
                         </a>
                     </div>
                 </div>
@@ -34,7 +35,7 @@ const Footer = () => {
                     <span className="footer-title font-bold opacity-100">Contact Person</span>
                     <a
                         className="link-hover link flex flex-col gap-2"
-                        href="https://instagram.com/pemilrafti_uajy?igshid=YmMyMTA2M2Y="
+                        href="https://wa.me/+6281328538476"
                         target="_blank"
                     >
                         <div className="flex justify-center items-center gap-2">

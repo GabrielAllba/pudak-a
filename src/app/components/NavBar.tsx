@@ -11,18 +11,26 @@ const NavBar = () => {
                 </button>
                 <ul className="menu menu-horizontal hidden gap-12 lg:flex">
                     <li className="text-white">
-                        <a onClick={() => document.getElementById('kandidat')?.scrollIntoView({ behavior: 'smooth' })}>
+                        <a onClick={() => document.getElementById('peta')?.scrollIntoView({ behavior: 'smooth' })}>
                             Peta
                         </a>
                     </li>
                     <li className="text-white">
-                        <a onClick={() => document.getElementById('kandidat')?.scrollIntoView({ behavior: 'smooth' })}>
+                        <a
+                            onClick={() =>
+                                document.getElementById('aspek_kebudayaan')?.scrollIntoView({ behavior: 'smooth' })
+                            }
+                        >
                             Aspek Kebudayaan
                         </a>
                     </li>
                     <li className="text-white">
-                        <a onClick={() => document.getElementById('timeline')?.scrollIntoView({ behavior: 'smooth' })}>
-                            Struktur Organisasi
+                        <a
+                            onClick={() =>
+                                document.getElementById('pengurus_dusun')?.scrollIntoView({ behavior: 'smooth' })
+                            }
+                        >
+                            Pengurus Dusun
                         </a>
                     </li>
                 </ul>

@@ -1,14 +1,26 @@
 [
     {
         "id": 1,
-        "title": "Ketua RT 01",
+        "title": "Ketua RW",
         "name": "Joel Christian Ngongoloy",
-        "foto": "/images/SEMA_1.png"
+        "foto": "/images/blank_profile.png"
     },
     {
         "id": 2,
-        "title": "Masa Tenang",
+        "title": "Ketua RT 01",
+        "name": "Joel Christian Ngongoloy",
+        "foto": "/images/blank_profile.png"
+    },
+    {
+        "id": 3,
+        "title": "Ketua RT 02",
         "name": "Ananda Charista Theo",
-        "foto": "/images/SEMA_1.png"
+        "foto": "/images/blank_profile.png"
+    },
+    {
+        "id": 4,
+        "title": "Ketua RT 03",
+        "name": "Ananda Charista Theo",
+        "foto": "/images/blank_profile.png"
     }
 ]
